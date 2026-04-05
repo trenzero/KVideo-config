@@ -364,9 +364,8 @@
     "name": "🔞黑料资源",
     "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "aosika",
@@ -374,7 +373,7 @@
     "baseUrl": "https://aosikazy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 101,
+    "priority": 102,
     "_comment": "超时/宕机"
   },
   {
@@ -383,7 +382,7 @@
     "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "搜索无结果"
   },
   {
@@ -392,7 +391,7 @@
     "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "超时/宕机"
   },
   {
@@ -401,7 +400,7 @@
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "搜索无结果"
   },
   {
@@ -410,7 +409,7 @@
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "搜索无结果"
   },
   {
@@ -419,7 +418,7 @@
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "搜索无结果"
   },
   {
