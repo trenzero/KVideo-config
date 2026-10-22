@@ -160,6 +160,14 @@
     "priority": 1
   },
   {
+    "id": "155zy",
+    "name": "🔞155-资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "fanhao",
     "name": "🔞番号资源",
     "baseUrl": "http://fhapi9.com/api.php/provide/vod",
@@ -284,14 +292,6 @@
     "name": "🎬速播资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "155zy",
-    "name": "🔞155-资源",
-    "baseUrl": "https://155api.com/api.php/provide/vod",
-    "group": "premium",
     "enabled": true,
     "priority": 5
   },
