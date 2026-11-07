@@ -1,5 +1,13 @@
 [
   {
+    "id": "iqiyi",
+    "name": "🎬-爱奇艺-",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "ikun",
     "name": "🎬iKun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
@@ -248,14 +256,6 @@
     "priority": 1
   },
   {
-    "id": "iqiyi",
-    "name": "🎬-爱奇艺-",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "wujin",
     "name": "🎬无尽资源",
     "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
@@ -325,7 +325,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "接口解析错误"
   },
   {
@@ -344,7 +344,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "接口解析错误"
+    "_comment": "超时/宕机"
   },
   {
     "id": "wolong",
